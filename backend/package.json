@@ -1,0 +1,25 @@
+{
+	"name": "test-react-native",
+	"version": "1.0.0",
+	"description": "> Esse teste tem como objetivo avaliar seu conhecimento em desenvolvimento mobile cross-plataform<br> > Nossa prioridade são desenvolvedores com conhecimento em React Native, mas também iremos avaliar os testes realizados utilizando outros frameworks de desenvolvimento cross-plataform",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon api/server.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/cardban/test-react-native-developer.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/cardban/test-react-native-developer/issues"
+	},
+	"homepage": "https://github.com/cardban/test-react-native-developer#readme",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "^4.17.1",
+		"nodemon": "^2.0.7"
+	}
+}
